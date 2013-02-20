@@ -2,6 +2,8 @@
 
 COMPLETED_PATH="/mnt/pool/Data/Torrents/Completed"
 
+#transmission sample call env
+#
 #TERM=linux
 #TR_TORRENT_DIR=/mnt/pool/Data/Torrents/Data
 #TR_TIME_LOCALTIME=Wed Feb 20 14:50:31 2013
@@ -15,9 +17,6 @@ COMPLETED_PATH="/mnt/pool/Data/Torrents/Completed"
 #TR_APP_VERSION=2.76
 #TR_TORRENT_NAME=The Complete Idiot's Guide to Simple Home Repair -Mantesh
 #_=/usr/bin/env
-
-#TR_TORRENT_NAME="The Complete Idiot's Guide to Simple Home Repair -Mantesh"
-#TR_TORRENT_DIR="/mnt/pool/Data/Torrents/Data"
 
 
 TR_PATH=$TR_TORRENT_DIR'/'$TR_TORRENT_NAME
