@@ -1,0 +1,4 @@
+It makes hard link of completed download . To change the target dir, change variable 
+COMPLETED_PATH
+
+note chmod 777 everything 
